@@ -1,0 +1,3 @@
+mysql:
+  dns: root:123456@tcp(10.124.148.61:3306)/ginchat
+  
